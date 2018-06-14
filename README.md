@@ -1,1 +1,1 @@
-Poll app created wit Django v2.0
+Polls app created with Django v2.0
